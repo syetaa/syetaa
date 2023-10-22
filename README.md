@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi there, I'm <a href="https://t.me/syetaaa0" target="_blank">Michel</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia</h3>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<h3 align="center">Computer science student, IT news writer from Russia</h3></h1>
 
 ### Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
