@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  ![peppo-dance](https://github.com/syetaa/syetaa/assets/133739087/08e99fb2-0f1c-4635-b6c4-1a4ebdf07d33)
 </div>
 <h1 align="center">Hi there, I'm <a href="https://t.me/syetaaa0" target="_blank">Michel</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
