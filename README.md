@@ -13,5 +13,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)]([https://www.instagram.com/_pod_spidamy?utm_source=qr&r=nametag](https://instagram.com/_syetaa0?igshid=YTQwZjQ0NmI0OA==))
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)]()
 
-### Grade:
+### Achievements:
 <img src="https://www.codewars.com/users/syetaaa/badges/micro">
