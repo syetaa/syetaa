@@ -10,7 +10,6 @@
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/syetaaa0)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)]([https://www.instagram.com/_pod_spidamy?utm_source=qr&r=nametag](https://instagram.com/_syetaa0?igshid=YTQwZjQ0NmI0OA==))
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)]()
 
 ### Achievements:
