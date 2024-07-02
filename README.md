@@ -2,7 +2,7 @@
   <img src="https://github.com/syetaa/syetaa/blob/main/peppo-dance.gif" width="100"/>
 </div>
 <h1 align="center">Hi there, I'm <a href="https://t.me/syetaaa0" target="_blank">Michel</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+
 <h3 align="center">Computer science student, IT news writer from Russia</h3></h1>
 
 ### Languages and Tools:
