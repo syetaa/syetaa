@@ -10,7 +10,7 @@
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/syetaaa0)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)]()
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://x.com/MSoinov48180)
 
 ### Achievements:
 <img src="https://www.codewars.com/users/syetaaa/badges/micro">
