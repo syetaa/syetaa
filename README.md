@@ -6,7 +6,7 @@
 <h3 align="center">Computer science student, IT news writer from Russia</h3>
 
 ### Languages and Tools:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,python,php,docker,linux,git" alt="skills" width=60%>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,python,docker,linux,git" alt="skills" width=60%>
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/syetaaa0)
