@@ -2,11 +2,10 @@
   <img src="https://github.com/syetaa/syetaa/blob/main/peppo-dance.gif" width="100"/>
 </div>
 <h1 align="center">Hi there, I'm <a href="https://t.me/syetaaa0" target="_blank">Michel</a></h1>
-
 <h3 align="center">Computer science student, IT news writer from Russia</h3>
 
 ### Languages and Tools:
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,python,docker,linux,git" alt="skills" width=60%>
+<img src="https://skillicons.dev/icons?i=html,css,scss,php,js,ts,python,fastapi,react,next,docker,linux,git" alt="skills" width=60%>
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/syetaaa0)
